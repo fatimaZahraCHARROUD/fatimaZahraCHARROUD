@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm Fatima Zahra Charroud
 
-<!--
-**fatimaZahraCHARROUD/fatimaZahraCHARROUD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer | Building Digital Solutions
 
-Here are some ideas to get you started:
+Passionate about creating modern, scalable, and user-focused digital solutions that help businesses streamline operations, improve productivity, and accelerate their digital transformation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+
+- 🌐 Web Applications
+- 📱 Mobile Applications
+- 🏢 Business Management Systems (CRM, ERP, Internal Systems)
+- 📊 Dashboards & Analytics
+- ⚙️ REST API Development
+- 🔍 SEO-Friendly Websites
+- 🎨 Modern UI/UX Interfaces
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+React.js • JavaScript • TypeScript • HTML5 • CSS3 • Tailwind CSS • Bootstrap
+
+### Backend
+Node.js • Express.js • NestJS • Laravel • PHP
+
+### Mobile
+React Native • Flutter
+
+### Databases
+MongoDB • MySQL • PostgreSQL • Oracle
+
+### Tools
+Git • GitHub • VS Code • Postman • Figma
+
+---
+
+## ⭐ Featured Projects
+
+### 🛒 ShopEase
+Full Stack e-commerce management platform helping businesses manage products, customers, suppliers, inventory, orders and deliveries from a single dashboard.
+
+### 💼 SwiftLance
+Web application helping freelancers manage clients, projects, tasks, time, files and notes from one centralized workspace.
+
+### 🧹 Allo Nadafa
+Cleaning service booking platform connecting customers with service providers through an intuitive web application.
+
+---
+
+## 📫 Let's Connect
+
+📧 **Email:** fatimazahracharroud92@gmail.com
+
+💼 **LinkedIn:** [https://linkedin.com/in/fatima-zahra-charroud](https://www.linkedin.com/in/fatima-zahra-charroud-a657812a5/)
+
+🌐 **Portfolio:** [https://your-portfolio-link.com](https://fzc-digital.vercel.app/)
+
+---
+⭐ Feel free to explore my repositories and don't hesitate to reach out for collaboration or new opportunities.
