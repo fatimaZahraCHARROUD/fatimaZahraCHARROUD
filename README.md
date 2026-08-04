@@ -20,20 +20,13 @@ Passionate about creating modern, scalable, and user-focused digital solutions t
 
 ## 💻 Tech Stack
 
-### Frontend
-React.js • JavaScript • TypeScript • HTML5 • CSS3 • Tailwind CSS • Bootstrap
+**Web:** React.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Bootstrap, Node.js, Express.js, NestJS, Laravel/PHP
 
-### Backend
-Node.js • Express.js • NestJS • Laravel • PHP
+**Mobile:** React Native, Flutter
 
-### Mobile
-React Native • Flutter
+**Database:** MongoDB, MySQL, PostgreSQL, Oracle
 
-### Databases
-MongoDB • MySQL • PostgreSQL • Oracle
-
-### Tools
-Git • GitHub • VS Code • Postman • Figma
+**Tools:** Git, GitHub, VS Code, Postman, Figma
 
 ---
 
